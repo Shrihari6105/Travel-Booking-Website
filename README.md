@@ -59,6 +59,18 @@ cd instant-travels
 
 ---
 
+## 📄 Legal and Attribution
+
+All **images** and **background videos** used are either original or sourced from royalty-free platforms.  
+If any asset appears to be used unintentionally without appropriate permission, please contact for prompt removal or attribution.
+
+**Social media icons** (Instagram, Twitter/X, LinkedIn, GitHub) are used solely to link to the developer’s official profiles and comply with each platform’s brand usage guidelines.
+
+All **trademarks**, **service marks**, and **brand logos** belong to their respective owners.  
+No affiliation or endorsement is implied.
+
+---
+
 ## **📞 Contact**  
 🔹 **Developer:** [Shrihari](https://github.com/Shrihari6105)  
 🔹 **Website:** [Instant Travels](https://yourwebsite.com)  
